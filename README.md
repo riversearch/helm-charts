@@ -1,6 +1,9 @@
 # River
-This is a fork of the Elasticsearch helm charts repo which we use to implement small
-cusomizations while remaining in sync with updates provided by Elastic. 
+This is a fork of the ElasticSearch/Kibana helm charts repo which we use to implement small
+cusomizations while remaining in sync with updates provided by Elastic. Keep in mind that forks of public 
+repositories are also public. 
+
+DO NOT KEEP ANY SENSITIVE INFORMATION IN THIS REPO.
 
 ### Updating Fork
 ```bash
