@@ -1,3 +1,17 @@
+# River
+This is a fork of the Elasticsearch helm charts repo which we use to implement small
+cusomizations while remaining in sync with updates provided by Elastic. 
+
+### Updating Fork
+```bash
+git fetch upstream
+git checkout master
+git merge upstream/master
+git push origin master
+```
+
+  
+# Below this line is the default Readme.
 # Elastic Stack Kubernetes Helm Charts
 
 [![Build Status](https://img.shields.io/jenkins/s/https/devops-ci.elastic.co/job/elastic+helm-charts+master.svg)](https://devops-ci.elastic.co/job/elastic+helm-charts+master/)
